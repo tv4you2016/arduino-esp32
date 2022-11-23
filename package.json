@@ -1,8 +1,9 @@
 {
   "name": "framework-arduinoespressif32",
   "version": "2.0.5",
-  "description": "Arduino Wiring-based Framework for the Espressif ESP32, ESP32-S and ESP32-C series of SoCs",
+  "description": "Tasmota Arduino Framework for the Espressif ESP32, ESP32-S and ESP32-C series of SoCs",
   "keywords": [
+    "tasmota",
     "framework",
     "arduino",
     "espressif",
@@ -11,6 +12,6 @@
   "license": "LGPL-2.1-or-later",
   "repository": {
     "type": "git",
-    "url": "https://github.com/espressif/arduino-esp32"
+    "url": "https://github.com/tasmota/arduino-esp32"
   }
 }
