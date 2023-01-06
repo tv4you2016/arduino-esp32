@@ -1,2 +1,2 @@
-esp-idf: release/v4.4 e7f0f8b3f4
-arduino: master 3ae32d6e
+esp-idf: release/v4.4 584911b2e8
+arduino: Tasmota/206 e14b7a72

@@ -1,0 +1,1 @@
+{"type": "tool", "name": "framework-arduinoespressif32", "version": "2.0.5", "spec": {"owner": "tasmota", "id": null, "name": "framework-arduinoespressif32", "requirements": null, "uri": "https://github.com/tv4you2016/arduino-esp32/archive/refs/tags/V1.00.zip"}}
